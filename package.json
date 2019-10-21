@@ -1,11 +1,11 @@
 {
-  "name": "nodebb-plugin-dbsearch",
+  "name": "nodebb-plugin-dbsearch-jieba",
   "version": "4.0.6",
   "description": "A Plugin that lets users search posts and topics",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/barisusakli/nodebb-plugin-dbsearch"
+    "url": "https://github.com/joysboy/nodebb-plugin-dbsearch-jieba"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,7 +15,7 @@
     "plugin",
     "search"
   ],
-  "author": "Baris Usakli <baris@designcreateplay.com>",
+  "author": "Marvin Zhao <zyxfsky@gmail.com>",
   "license": "BSD-2-Clause",
   "dependencies": {
     "async": "2.1.4",
